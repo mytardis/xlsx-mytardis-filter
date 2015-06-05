@@ -7,6 +7,7 @@ Filter for generating image thumbnails for MyTardis using Gnumeric's ssconvert t
 
 ## Requirements
  - ssconvert (http://manpages.ubuntu.com/manpages/trusty/man1/ssconvert.1.html)
+ - ImageMagick (http://www.imagemagick.org/script/command-line-tools.php)
  - [MyTardis 3.6](https://github.com/mytardis/mytardis/branches/3.6)
 
 ## Installation
