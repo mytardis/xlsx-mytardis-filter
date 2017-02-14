@@ -144,7 +144,7 @@ class XlsxImageFilter(object):
 
             self.fileoutput2('/usr/bin',
                              'convert',
-                             '-flatten',
+                             '-flatten -density 300',
                              preview_image_file_path_pdf + '[0]',
                              '-background white',
                              preview_image_file_path)
